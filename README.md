@@ -1,6 +1,6 @@
 # hello-COBOL
 
-## About <span style="color:orange;">Word up</span>
+## <span style="color:orange;">About</span>
 These are first COBOL and JCL programs I wrote. The repo contains a simple "hello world" program written in COBOL, accompanied by the JCL to run it.
 
 ## @@ Tools + Languages @@
