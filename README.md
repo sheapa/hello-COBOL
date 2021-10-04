@@ -1,10 +1,16 @@
 # hello-COBOL
 First COBOL program &amp; JCL.
 
-# Method
-Written tested and compiled through TSO/ISPF using pw3270 emulator and the MTM2020 mainframe. 
+## Method
+Written tested and compiled using pw3270 emulator and the MTM2020 mainframe. Uploaded to github through ZOWE for vsCode and Git Bash.
 
-# Pics or it didn't happen.
+## Purpose
+(1.)Create a "Hello World" program with COBOl through mainframe inteface using TSO/ISPF.
+(2.)Debug program using SDF. Obtain zero return code.
+(3.)Write JCL
+
+
+## Pics or it didn't happen.
 ![Alt text](/screenshots/pw3270.jpg?raw=true "pw3270 logon")
 ![Alt text](/screenshots/HWORLDPS-COBOL.jpg?raw=true "Hello World Cobol")
 ![Alt text](/screenshots/HELOAGIN-JCL.jpg?raw=true "Run Hello World JCL")
