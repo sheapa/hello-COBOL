@@ -1,9 +1,9 @@
 # hello-COBOL
 
-## About
+##  @@ About
 These are first COBOL and JCL programs I wrote. The repo contains a simple "hello world" program written in COBOL, accompanied by the JCL to run it.
 
-## Tools + Languages 
+## @@ Tools + Languages 
 * TSO/ISPF
 * JCL
 * COBOL
@@ -11,13 +11,13 @@ These are first COBOL and JCL programs I wrote. The repo contains a simple "hell
 * pw3270
 * z/OS
 
-## Method
+## @@ Method
 1. Create a "Hello World" program with COBOl through mainframe inteface using TSO/ISPF.
 2. Debug program using SDF. Obtain zero return code.
 3. Write JCL
 
 
-## Pics or it didn't happen.
+## @@ Pics or it didn't happen.
 ![Alt text](/screenshots/pw3270.jpg?raw=true "pw3270 logon")
 ![Alt text](/screenshots/HWORLDPS-COBOL.jpg?raw=true "Hello World Cobol")
 ![Alt text](/screenshots/HELOAGIN-JCL.jpg?raw=true "Run Hello World JCL")
