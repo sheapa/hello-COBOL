@@ -1,13 +1,20 @@
 # hello-COBOL
-First COBOL program &amp; JCL.
+
+## About
+These are first COBOL and JCL programs I wrote. The repo contains a simple "hello world" program written in COBOL, accompanied by the JCL to run it.
+
+## Tools + Languages 
+* TSO/ISPF
+* JCL
+* COBOL
+* SDF
+* pw3270
+* z/OS
 
 ## Method
-Written tested and compiled using pw3270 emulator and the MTM2020 mainframe. Uploaded to github through ZOWE for vsCode and Git Bash.
-
-## Purpose
-(1.)Create a "Hello World" program with COBOl through mainframe inteface using TSO/ISPF.
-(2.)Debug program using SDF. Obtain zero return code.
-(3.)Write JCL
+1.Create a "Hello World" program with COBOl through mainframe inteface using TSO/ISPF.
+2.Debug program using SDF. Obtain zero return code.
+3.Write JCL
 
 
 ## Pics or it didn't happen.
